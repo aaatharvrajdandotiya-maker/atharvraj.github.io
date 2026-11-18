@@ -1,25 +1,10 @@
-# atharvraj.github.io
-Creative web design and development portfolio featuring interactive websites, motion, and digital experiences
-# Atharv Sharma
+# Atharv Raj Dandotiya — Creative Portfolio
+An immersive, art-directed digital observatory.
 
-### Creative Web Designer & Developer
+Built with a performance-first, semantic, and art-directed approach, this portfolio features:
+- **The Mapping Room**: A spatial, narrative exploration of my background and creative evolution.
+- **Project Showcase**: An editorial case study of *Chambal Thrift*, a conceptual design project.
 
-I build animated, interactive websites where visual design, motion, and usability come together.
+Built using native HTML5, CSS3, and GSAP.
+Deployed via GitHub Pages.
 
-I enjoy exploring typography, transitions, and thoughtful interactions to create distinctive digital experiences that feel intuitive and responsive.
-
-### Skills
-- Web Design & Development
-- Front-End Development
-- Interaction & Motion Design
-- HTML, CSS, JavaScript
-- GSAP
-
-### Featured Work
-**CHAMBAL THRIFT** — A self-initiated fashion website concept exploring expressive design and interactive web experiences.
-
-### Currently
-Building my portfolio and experimenting with creative web interactions.
-
----
-Let's connect and create something interesting for the web.
